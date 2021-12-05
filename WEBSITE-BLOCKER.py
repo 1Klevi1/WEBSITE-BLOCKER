@@ -6,10 +6,10 @@ import tkinter
 window=Tk()
 window.geometry('900x600')
 window.resizable(0,0)
-window.title("'Klevi Alliu's -Website Blocker")
+window.title("'Klevi's -Website Blocker")
 
 Label(window, text ='WEBSITE BLOCKER' , font ='arial 20 bold').pack()
-Label(window, text ='Klevi Alliu' , font ='arial 20 bold').pack(side=BOTTOM)
+Label(window, text ='Klevi , font ='arial 20 bold').pack(side=BOTTOM)
 
 host_path =r'C:\Users\E-store\OneDrive\Desktop\Yotube video'
 ip_address = '127.0.0.1'
